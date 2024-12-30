@@ -8,8 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "type": "module",
-  "dependencies": {
-    "zod": "^3.24.1"
-  }
+  "type": "module"
 }
